@@ -1,5 +1,5 @@
 # Exerc.Python1
-Lista de exercícios de python realizados!
+
 1) Faça um programa que peça dois números inteiros e imprima a soma desses dois números
 2) Escreva um programa que leia um valor em metros e o exiba convertido em milímetros
 3) Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. Calcule 
