@@ -19,5 +19,4 @@ sabendo que o carro custa R$ 60,00 por dia e R$ 0,15 por km rodado.
 quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante 
 perde 10 minutos de vida a cada cigarro, calcule quantos dias de vida um fumante perderá. Exiba o 
 total de dias.
-11) Sabendo que str( ) converte valores numéricos para string, calcule quantos dígitos há em 2 elevado 
-a um milhão
+11) Sabendo que str( ) converte valores numéricos para string, calcule quantos dígitos há em 2 elevado dez mil.
